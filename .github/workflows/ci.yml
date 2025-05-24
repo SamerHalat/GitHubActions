@@ -1,4 +1,4 @@
-name: Teste com mocha
+name: Testes com mocha
 
 on:
   push:
